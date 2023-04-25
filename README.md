@@ -15,3 +15,5 @@ This course is an advanced study of neural networks and deep learning, covering 
 - `set1/`: Materials for Set 1, including datasets and code for studying supervised learning classification using datasets from the UCI repository and the Kaggle platform
 - `set2/`: Materials for Set 2, including code for implementing content-based recommendation systems and semantic data visualization using SOM
 - `set3/`: Materials for Set 3, including code and data for implementing image captioning using deep learning techniques
+
+## Grade : 10/10
