@@ -1,0 +1,6 @@
+Datasets/
+tmp/
+flickr30k-images-ecemod/
+# ignore .pkl files
+*.pkl
+*.csv
