@@ -16,4 +16,4 @@ This course is an advanced study of neural networks and deep learning, covering 
 - `set2/`: Materials for Set 2, including code for implementing content-based recommendation systems and semantic data visualization using SOM
 - `set3/`: Materials for Set 3, including code and data for implementing image captioning using deep learning techniques
 
-## Grade : 10/10
+### Grade : 10/10
